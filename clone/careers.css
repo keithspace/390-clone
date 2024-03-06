@@ -1,0 +1,51 @@
+h1 {
+text-align: center;
+font-size: 50px;
+}
+
+
+h4{
+    text-decoration: underline;
+    color: #1A2238;
+}
+
+body{
+    font-size: 16px;
+}
+nav {
+    background-color: #3e70a8;
+    color: #3e70a8;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color:white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #3e70a8;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+header {
+    background-color: #1A2238;
+    color: #FDF5DF;
+    padding: 20px;
+    text-align: center;
+}
+img{
+    text-wrap: auto;
+    position:absolute;
+    left: 40%;
+    top: 20%;
+}

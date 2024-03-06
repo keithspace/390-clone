@@ -1,0 +1,93 @@
+.description{
+  width: 500px;
+  height: 100px;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  margin: auto;
+  font-size: 20px;
+}
+.icons{
+    position: absolute;
+    top: 90%;
+    left: 70%;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  img{
+    width: 600px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto;
+    position: absolute;
+    left: 60%;
+    top: 20%;
+  }
+  .contacts{
+    width: 500px;
+  height: 100px;
+  position: absolute;
+  top: 90%;
+  left: 10%;
+  margin: auto;
+  font-size: 20px;
+  }
+ .about{
+    top: 40%;
+    font-size: 30px;
+    text-align: center;
+ }
+ nav {
+    background-color:#3e70a8;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer {
+  background-color: #3e70a8;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+header {
+  background-color: #1A2238;
+  color: #FDF5DF;
+  padding: 20px;
+  text-align: center;
+}
